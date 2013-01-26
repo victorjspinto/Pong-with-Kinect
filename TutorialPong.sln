@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialPong", "TutorialPong\TutorialPong\TutorialPong.csproj", "{425D48FF-611C-4501-950D-BEEAE264D880}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TutorialPongContent", "TutorialPong\TutorialPongContent\TutorialPongContent.contentproj", "{00786B80-1BA4-4BF5-9F32-E8D6A5F5F041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425D48FF-611C-4501-950D-BEEAE264D880}.Debug|x86.ActiveCfg = Debug|x86
+		{425D48FF-611C-4501-950D-BEEAE264D880}.Debug|x86.Build.0 = Debug|x86
+		{425D48FF-611C-4501-950D-BEEAE264D880}.Release|x86.ActiveCfg = Release|x86
+		{425D48FF-611C-4501-950D-BEEAE264D880}.Release|x86.Build.0 = Release|x86
+		{00786B80-1BA4-4BF5-9F32-E8D6A5F5F041}.Debug|x86.ActiveCfg = Debug|x86
+		{00786B80-1BA4-4BF5-9F32-E8D6A5F5F041}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
